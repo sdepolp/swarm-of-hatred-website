@@ -17,7 +17,7 @@ function App() {
         <About />
         <Music />
         <Discography />
-        <Live/>
+        
         <Contact />
       </main>
       <Footer />

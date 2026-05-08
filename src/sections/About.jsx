@@ -27,7 +27,7 @@ function About() {
           <p>
             <b>Members:</b><br/>
             SDP - Guitars & Vocals<br/>
-            Alasthor - Lead Guitars<br/>
+            CHJ - Lead Guitars<br/>
             Benjamin Aguilera - Bass<br/>
             Machinegun - Drums<br/>
           </p>

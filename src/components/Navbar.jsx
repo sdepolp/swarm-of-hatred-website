@@ -5,7 +5,7 @@ const links = [
   { label: 'About', href: '#about' },
   { label: 'Music', href: '#music' },
   { label: 'Discography', href: '#discography' },
-  { label: 'Live', href: '#live' },
+  //{ label: 'Live', href: '#live' },
   { label: 'Contact', href: '#contact' }
 ];
 

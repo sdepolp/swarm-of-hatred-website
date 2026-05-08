@@ -6,9 +6,9 @@ export const bandData = {
     'Swarm Of Hatred is a black metal force forged in darkness since 2011 in Santiago Chile, dissonance and spiritual ruin. This site is a simple official gateway for music, releases, live manifestations and contact.',
   socials: {
     instagram: 'https://www.instagram.com/swarmofhatredofficial/',
-    facebook: 'https://facebook.com/',
-    youtube: 'https://youtube.com/',
-    spotify: 'https://spotify.com/',
+    facebook: 'https://www.facebook.com/SwarmOfHatredOfficial',
+    youtube: 'https://www.youtube.com/@SwarmOfHatredTV',
+    spotify: 'https://open.spotify.com/intl-es/artist/6O61S2zIOBpGYb1UqSQZ22?si=9NBdM031TcyJGkgccMD59A',
     bandcamp: 'https://swarmofhatred.bandcamp.com/'
   },
   musicEmbed:
