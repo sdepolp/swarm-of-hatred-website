@@ -38,6 +38,13 @@ export const releases = [
     cover: '/assets/EP2021.jpg',
     description: 'Featuring two new songs and two old songs from The Brotherhoood Of The Black Blood era.'
   },
+  {
+    title: 'The Rise Of The Black Serpents',
+    year: '2026',
+    format: 'SINGLE',
+    cover: '/assets/SN2026.png',
+    description: 'First single from the forthcoming album, a glimpse into darkness and dissonance.'
+  },
   /*{
     title: 'Transdimensional Warmachine',
     year: 'TBA',
@@ -49,9 +56,15 @@ export const releases = [
 
 export const liveDates = [
   {
+    date: '2026-10-31',
+    city: 'Santiago, RM',
+    venue: 'Sala Warehouse',
+    note: `ECHOES OF DECADENCE II - Feat. Kythrone, Gutural Torment.`
+  },
+  {
     date: '2026-04-24',
     city: 'Santiago, RM',
     venue: 'La Comarca',
-    note: `FIGHT TILL DEATH VOL. I - Feat. Slaughterhouse, Camahueto, Dark Seducer y Death's Revenge.`
-  }
+    note: `FIGHT TILL DEATH VOL. I - Feat. Slaughterhouse, Camahueto, Dark Seducer & Death's Revenge.`
+  }  
 ];
